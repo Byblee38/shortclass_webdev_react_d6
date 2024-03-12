@@ -1,0 +1,8 @@
+/.vscode
+/README.md
+/index.html
+/node_modules
+/package-lock.json
+/package.json
+/public
+/vite.config.js
